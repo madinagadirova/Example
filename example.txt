@@ -1,4 +1,2 @@
-Reset deyisikliyi
-
 Example melumatlari buraya add olunacaqdir
 Yeni example melumatlar elave olundu
